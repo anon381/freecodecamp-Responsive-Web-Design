@@ -1,3 +1,11 @@
+/*
+  Technical Documentation Page Stylesheet
+  This CSS file contains:
+  - Layout and styling for documentation sections
+  - Responsive design and media queries
+  - Navbar and code block styles
+  - Structured to meet freeCodeCamp Responsive Web Design project requirements
+*/
 html,
 body {
   min-width: 290px;
