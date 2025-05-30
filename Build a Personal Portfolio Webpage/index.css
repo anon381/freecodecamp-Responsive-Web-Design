@@ -1,3 +1,11 @@
+/*
+  Personal Portfolio Webpage Stylesheet
+  This CSS file contains:
+  - Layout and styling for the portfolio sections
+  - Responsive design and media queries
+  - Navbar, welcome, projects, and contact styles
+  - Structured to meet freeCodeCamp Responsive Web Design project requirements
+*/
 /* Custom properties/variables  */
 :root {
   --main-white: #f0f0f0;
