@@ -1,3 +1,11 @@
+/*
+  Product Landing Page Stylesheet
+  This CSS file contains:
+  - Layout and styling for the landing page
+  - Flexbox and responsive design
+  - Navbar, product, and form styles
+  - Structured to meet freeCodeCamp Responsive Web Design project requirements
+*/ 
 /** global element styling **/
 
 @import 'https://fonts.googleapis.com/css?family=Lato:400,700';
