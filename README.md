@@ -1,7 +1,4 @@
 
-## Certificate
-
-Below is the certificate for completing the freeCodeCamp Responsive Web Design projects:
 
 ---
 ---
