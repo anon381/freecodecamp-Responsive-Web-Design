@@ -3,6 +3,9 @@
 
 Below is the certificate for completing the freeCodeCamp Responsive Web Design projects:
 
+---
+---
+
 ![Responsive Web Design Certificate](images/image.png)
 
 
